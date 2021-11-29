@@ -3,7 +3,7 @@ layout: index
 redirect_from: "/about/"
 ---
 
-I am Guillermo, and I was born in Spain. I have a Bachelor's Degree in Telecommunications (having received honours in [my thesis](https://github.com/wiyarmir/GeoNoise)). I currently live in London, United Kingdom. At the moment I work for [Monzo](https://monzo.com), where we are building the best bank ever! I have previously worked at [Skyscanner](https://www.skyscanner.net/media/about-skyscanner), [Badoo](https://corp.badoo.com) and [Coniq](http://coniq.com/) in London, and at [Credit Suisse](https://www.credit-suisse.com/microsites/careers-wroclaw/en.html) in Wrocław, Poland.
+I am Guillermo, and I was born in Spain. I have a Bachelor's Degree in Telecommunications (having received honours in [my thesis](https://github.com/wiyarmir/GeoNoise)). I currently live in Marbella (Spain) after a few years in London (UK) and Wrocław (Poland). At the moment I work as a self employed consultant, reach out for a quote! I have previously worked at [Monzo](https://monzo.com), [Skyscanner](https://www.skyscanner.net/media/about-skyscanner), [Badoo](https://corp.badoo.com) and [Coniq](http://coniq.com/) in London, and at [Credit Suisse](https://www.credit-suisse.com/microsites/careers-wroclaw/en.html) in Wrocław.
 
 # What are you focused in?
 
@@ -18,5 +18,3 @@ As a consequence, or perhaps part of the main focus, I do play around concepts l
 While I do invest quite some amount of my theoretically free time into investigating new technologies or improving my skills in those I already know, that does not count as free time, does it?
 
 I enjoy cooking (not so) complicated recipes (I bet this is the part of me who wanted to become a chemist), which I proudly share in my [Instagram](https://instagram.com/wiyarmir). I also do like a lot traveling to new and old places, and wearing off the sole of my shoes getting lost.
-
-Back in Spain I used to play waterpolo for [Club Natación Marbella](http://www.cnmarbella.es/), but unfortunately in Wrocław all I could do is just swim. I will try to fix that now that I am in London 😁
