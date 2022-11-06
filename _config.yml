@@ -64,6 +64,13 @@ social:
     share_url:
     share_title:
     share_link:
-
+   
+  - icon: mastodon
+    url: https://androiddev.social/@wiyarmir
+    desc: Follow me on Mastodon
+    share_url:
+    share_title:
+    share_link:
+    
 include:
   - .well-known
