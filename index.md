@@ -3,7 +3,7 @@ layout: index
 redirect_from: "/about/"
 ---
 
-I am Guillermo, and I was born in Spain. I have a Bachelor's Degree in Telecommunications (having received honours in [my thesis](https://github.com/wiyarmir/GeoNoise)). I currently live in Marbella (Spain) after a few years in London (UK) and Wrocław (Poland). At the moment I work as a self employed consultant, reach out for a quote! I have previously worked at [Monzo](https://monzo.com), [Skyscanner](https://www.skyscanner.net/media/about-skyscanner), [Badoo](https://corp.badoo.com) and [Coniq](http://coniq.com/) in London, and at [Credit Suisse](https://www.credit-suisse.com/microsites/careers-wroclaw/en.html) in Wrocław.
+I am Guillermo, and I was born in Spain. I have a Bachelor's Degree in Telecommunications (having received honours in [my thesis](https://github.com/wiyarmir/GeoNoise)). I currently live in Marbella (Spain) after a few years in London (UK) and Wrocław (Poland). At the moment I work building [Sling](https://sling.money), check it out! I have previously worked at [Guild](https://guild.host) and [Qonto](https://qonto.com) remotely; [Monzo](https://monzo.com), [Skyscanner](https://www.skyscanner.net/media/about-skyscanner), [Badoo](https://corp.badoo.com) and [Coniq](http://coniq.com/) in London, and at [Credit Suisse](https://www.credit-suisse.com/microsites/careers-wroclaw/en.html) in Wrocław.
 
 # What are you focused in?
 
